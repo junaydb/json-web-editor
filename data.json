@@ -1,0 +1,34 @@
+{
+    "petData": [
+        {
+            "id": "0001",
+            "name": "suki",
+            "type": "cat",
+            "age": "2"
+        },
+        {
+            "id": "0002",
+            "name": "oscar",
+            "type": "cat",
+            "age": "4"
+        },
+        {
+            "id": "0003",
+            "name": "beans",
+            "type": "dog",
+            "age": "6"
+        },
+        {
+            "id": "0004",
+            "name": "betsy",
+            "type": "parrot",
+            "age": "12"
+        },
+        {
+            "id": "0005",
+            "name": "nami",
+            "type": "turtle",
+            "age": "2"
+        }
+    ]
+}
